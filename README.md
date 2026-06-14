@@ -1,4 +1,4 @@
-# 📅 June 2026 Calendar
+### 📅 June 2026 Calendar
 
 A simple, static HTML calendar for **June 2026**, styled with inline CSS.
 
